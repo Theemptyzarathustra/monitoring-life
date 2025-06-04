@@ -28,7 +28,7 @@ A modern daily dashboard web app to track, note, and monitor various aspects of 
 1. **Clone the repository:**
    ```bash
    git clone <your-repo-url>
-   cd report-web
+   cd monitoring-life
    ```
 2. **Install dependencies:**
    ```bash
